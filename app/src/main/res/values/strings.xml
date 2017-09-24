@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Where To Charge?</string>
+    <string name="navigation_drawer_open">Open menu</string>
+    <string name="navigation_drawer_close">Close menu</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title"></string>
+    <string name="slide_1_desc"></string>
+
+    <string name="slide_2_title">Function</string>
+    <string name="slide_2_desc">Text</string>
+
+    <string name="slide_3_title">Function</string>
+    <string name="slide_3_desc">Text</string>
+
+    <string name="slide_4_title">Function</string>
+    <string name="slide_4_desc">Text</string>
+</resources>

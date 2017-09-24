@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "336152410315",
+    "firebase_url": "https://dviratininko-pagalbininkas.firebaseio.com",
+    "project_id": "dviratininko-pagalbininkas",
+    "storage_bucket": "dviratininko-pagalbininkas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336152410315:android:f7e86a90a791e205",
+        "android_client_info": {
+          "package_name": "lt.seaportdevelopers.dp.dviratininkopagalbininkas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336152410315-tnvmat7d5kuk83vdqki01dp6ra5v2kun.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lt.seaportdevelopers.dp.dviratininkopagalbininkas",
+            "certificate_hash": "a6e16fcaf9046a7b2ebe8c2e9a0f49aaadfe8120"
+          }
+        },
+        {
+          "client_id": "336152410315-3tiredi8vtv2o8g6kfi5jdbupk4gdqas.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lt.seaportdevelopers.dp.dviratininkopagalbininkas",
+            "certificate_hash": "58d56f219049719a0c7a1e7431b19a70b3bcf32a"
+          }
+        },
+        {
+          "client_id": "336152410315-2tt4suv187j4s53am7k1dv0v9irvieq0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lt.seaportdevelopers.dp.dviratininkopagalbininkas",
+            "certificate_hash": "b2d4437f04ac3200ed64d1e515973dd342c6b13f"
+          }
+        },
+        {
+          "client_id": "336152410315-hs50su62923vaujmd5p964ocvmgbj6oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD22-WF0gVRW4440NGpVhriuA4KY5UPIwk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336152410315-hs50su62923vaujmd5p964ocvmgbj6oi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

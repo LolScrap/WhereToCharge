@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/grp1" android:checkableBehavior="all">
+        <item
+            android:id="@+id/nav_googlemaps"
+            android:icon="@drawable/ic_map_black_24dp"
+            android:title="Charging stations" />
+        <item
+            android:id="@+id/nav_apie_programele"
+            android:icon="@drawable/ic_info_black_24dp"
+            android:title="About" />
+    </group>
+</menu>
